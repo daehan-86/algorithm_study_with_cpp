@@ -13,22 +13,163 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\gold2">
+      <UniqueIdentifier>{c73fb2b6-e874-433b-be28-da3c48713e18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gold5">
+      <UniqueIdentifier>{7e106a39-27d2-437a-91e8-cbf7292c5bd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gold3">
+      <UniqueIdentifier>{8ee94ee1-c428-4906-81b6-b7c1bfff8932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gold4">
+      <UniqueIdentifier>{d3ff3ea8-5033-4bb3-8492-599295b56d05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\gold1">
+      <UniqueIdentifier>{6518a13d-33a2-448b-9a0f-1a84675bb162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver1">
+      <UniqueIdentifier>{f4b73aa9-6db1-4d0e-8f54-794cc53e70b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver5">
+      <UniqueIdentifier>{07b78326-5d63-4efc-ac3b-ffa63c92f044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver4">
+      <UniqueIdentifier>{31f9c287-0983-49d3-bb58-444d2b966ab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver3">
+      <UniqueIdentifier>{263a1d93-4534-44cf-a36f-cbe95a47ca6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\silver2">
+      <UniqueIdentifier>{f4bbfc1a-6cd0-4272-98a1-4a54a2294b67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\platinum4">
+      <UniqueIdentifier>{e093e4d4-f4fc-4fb5-897e-e7a2b592884f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\platinum5">
+      <UniqueIdentifier>{3ee41d1d-60ef-4885-a98a-165879c755b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\platinum2">
+      <UniqueIdentifier>{7264d975-6613-4da6-96f2-c779750b2912}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\platinum3">
+      <UniqueIdentifier>{b72751ad-842b-41a1-98a9-0b5c9f8bc9fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\platinum1">
+      <UniqueIdentifier>{201f9af9-c60f-4008-94c3-ec03eb1c8ee9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1262.cpp">
+    <ClCompile Include="4004.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1577.cpp">
+    <ClCompile Include="1250.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10996.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10997.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1066.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2513.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="10476.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="15670.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="17352.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="2022.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="10835.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="27925.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="13269.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="3987.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="2481.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="18500.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.cpp">
+      <Filter>소스 파일\silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="1081.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="1092.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="1103.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="1175.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="1207.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="1262.cpp">
+      <Filter>소스 파일\silver1</Filter>
     </ClCompile>
     <ClCompile Include="1461.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="1577.cpp">
+      <Filter>소스 파일\gold5</Filter>
     </ClCompile>
     <ClCompile Include="1719.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="1823.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="1826.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="2109.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="2573.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="3697.cpp">
+      <Filter>소스 파일\platinum4</Filter>
+    </ClCompile>
+    <ClCompile Include="9238.cpp">
+      <Filter>소스 파일\platinum2</Filter>
+    </ClCompile>
+    <ClCompile Include="14427.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="19598.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="24463.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="30869.cpp">
+      <Filter>소스 파일\gold1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
