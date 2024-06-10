@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\platinum1">
       <UniqueIdentifier>{201f9af9-c60f-4008-94c3-ec03eb1c8ee9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\scsc">
+      <UniqueIdentifier>{42b0e46b-f197-413c-bc49-6e9c7c19b1dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -170,6 +173,84 @@
     </ClCompile>
     <ClCompile Include="30869.cpp">
       <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="18110.cpp">
+      <Filter>소스 파일\silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="14940.cpp">
+      <Filter>소스 파일\silver1</Filter>
+    </ClCompile>
+    <ClCompile Include="20529.cpp">
+      <Filter>소스 파일\silver1</Filter>
+    </ClCompile>
+    <ClCompile Include="21736.cpp">
+      <Filter>소스 파일\silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="1708.cpp">
+      <Filter>소스 파일\platinum5</Filter>
+    </ClCompile>
+    <ClCompile Include="2718.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="20366.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="17085.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="A_smu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="B_smu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C_smu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="D_smu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="E_smu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="31865.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9944.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="16974.cpp">
+      <Filter>소스 파일\gold5</Filter>
+    </ClCompile>
+    <ClCompile Include="10711.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="A.cpp">
+      <Filter>소스 파일\scsc</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>소스 파일\scsc</Filter>
+    </ClCompile>
+    <ClCompile Include="L.cpp">
+      <Filter>소스 파일\scsc</Filter>
+    </ClCompile>
+    <ClCompile Include="I.cpp">
+      <Filter>소스 파일\scsc</Filter>
+    </ClCompile>
+    <ClCompile Include="H.cpp">
+      <Filter>소스 파일\scsc</Filter>
+    </ClCompile>
+    <ClCompile Include="J.cpp">
+      <Filter>소스 파일\scsc</Filter>
+    </ClCompile>
+    <ClCompile Include="28142.cpp">
+      <Filter>소스 파일\gold3</Filter>
+    </ClCompile>
+    <ClCompile Include="17114.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="2295.cpp">
+      <Filter>소스 파일\gold4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
