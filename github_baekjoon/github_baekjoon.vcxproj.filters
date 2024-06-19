@@ -61,6 +61,9 @@
     <Filter Include="소스 파일\scsc">
       <UniqueIdentifier>{42b0e46b-f197-413c-bc49-6e9c7c19b1dd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\pnupc">
+      <UniqueIdentifier>{c279417c-c6bc-49f4-a8af-00a56da44f78}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -250,6 +253,54 @@
       <Filter>소스 파일\gold1</Filter>
     </ClCompile>
     <ClCompile Include="2295.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="17106.cpp">
+      <Filter>소스 파일\platinum5</Filter>
+    </ClCompile>
+    <ClCompile Include="12094.cpp">
+      <Filter>소스 파일\platinum4</Filter>
+    </ClCompile>
+    <ClCompile Include="1104.cpp">
+      <Filter>소스 파일\platinum3</Filter>
+    </ClCompile>
+    <ClCompile Include="2332.cpp">
+      <Filter>소스 파일\gold4</Filter>
+    </ClCompile>
+    <ClCompile Include="3657.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="13911.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="pnuA.cpp">
+      <Filter>소스 파일\pnupc</Filter>
+    </ClCompile>
+    <ClCompile Include="pnuB.cpp">
+      <Filter>소스 파일\pnupc</Filter>
+    </ClCompile>
+    <ClCompile Include="pnuC.cpp">
+      <Filter>소스 파일\pnupc</Filter>
+    </ClCompile>
+    <ClCompile Include="pnuD.cpp">
+      <Filter>소스 파일\pnupc</Filter>
+    </ClCompile>
+    <ClCompile Include="pnuE.cpp">
+      <Filter>소스 파일\pnupc</Filter>
+    </ClCompile>
+    <ClCompile Include="pnuF.cpp">
+      <Filter>소스 파일\pnupc</Filter>
+    </ClCompile>
+    <ClCompile Include="2042.cpp">
+      <Filter>소스 파일\gold1</Filter>
+    </ClCompile>
+    <ClCompile Include="11725.cpp">
+      <Filter>소스 파일\silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="1167.cpp">
+      <Filter>소스 파일\gold2</Filter>
+    </ClCompile>
+    <ClCompile Include="1967.cpp">
       <Filter>소스 파일\gold4</Filter>
     </ClCompile>
   </ItemGroup>
